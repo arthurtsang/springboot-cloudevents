@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.youramaryllis.cloudevents.CloudEventsJmsConfig,\
+io.cloudevents.jackson.SpringBootCloudEventsDeserializer,\
+io.cloudevents.jackson.SpringBootCloudEventsSerializer
